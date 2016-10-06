@@ -1,4 +1,6 @@
 # Rails
+![Rails5](https://raw.githubusercontent.com/tabunmuri/study/master/images/rails5.png)
+
 ## 基本
 - 名前に困ったらここを見る
 	- [Railsにおける命名規則](http://qiita.com/gakkie/items/3afcd505c786364aa5fa)
