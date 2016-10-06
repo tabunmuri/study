@@ -1,3 +1,10 @@
+# .gitignore
+
+しれーっとこれをコピペしろ。そうすれば当面は大丈夫だ。
+
+もしくは、同じものがこのリポジトリの`.gitignore`になってる。
+
+```
 # Created by https://www.gitignore.io/api/os,osx,windows,linux,intellij,phpstorm,rubymine,pycharm,webstorm,ruby,sass,vim,emacs,git,grunt,bower
 
 ### WebStorm ###
@@ -476,3 +483,4 @@ bower_components
 .bower-registry
 .bower-tmp
 
+```
