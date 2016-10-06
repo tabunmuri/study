@@ -16,6 +16,10 @@
 - [aws/aws.md](https://github.com/tabunmuri/study/blob/master/aws/aws.md)
 - [aws/s3.md](https://github.com/tabunmuri/study/blob/master/aws/aws.md)
 
+### ruby
+- [ruby/ruby.md](https://github.com/tabunmuri/study/blob/master/ruby/ruby.md)
+- [ruby/rails.md](https://github.com/tabunmuri/study/blob/master/ruby/rails.md)
+
 ... あとは、これから増やす
 
 ## やる気を出すための施策
