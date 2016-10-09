@@ -54,6 +54,23 @@ gem 'font-awesome-sass', '~> 4.6', '>= 4.6.2'
 - [github](https://github.com/FortAwesome/font-awesome-sass)
 - [bootstrap-sassとfont-awesome-sassをrails4に導入する](http://qiita.com/wantata222/items/8fe547ae9fb9616492ef)
 
+### ■pre-commitを入れたら
+```
+# commit前に自動的にチェックが走る
+gem 'pre-commit', '~> 0.30.0'
+```
+- [rubygems.org](https://rubygems.org/gems/pre-commit)
+- [github](https://github.com/jish/pre-commit)
+
+`rspec`と`rubocop`を有効にする。
+
+```
+git config pre-commit.checks "rspec"
+git config pre-commit.checks "rubocop"
+```
+
+これで、commit前に、自動でチェックされるようになる。
+
 ## ci系
 
 準備中
